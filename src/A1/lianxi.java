@@ -8,6 +8,7 @@ public class lianxi {
 		
 		int a = 11;
 		int b = 2;
+		System.out.println("sdasd");
 		int c = c = a/b;
 		System.out.println(c+"%");
 		
